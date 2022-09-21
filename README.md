@@ -1,7 +1,7 @@
 ### Olá, eu sou Hyago
 
-- 🔭 Hoje trabalho como Desenvolvedor Júnior NLP
-- 🌱 Estudando Flutter
+- 🔭 Hoje trabalho como Cientista de Dados
+- 🌱 Estudando Ciência de Dados
 
 <div align="center">
   <a href="https://github.com/iMashiro">
